@@ -49,11 +49,6 @@ public class arrays {
         System.out.println(nombres[1]);
         System.out.println(nombres.length);
 
-
-
-
-
-
     }
     
 }
